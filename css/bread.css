@@ -68,7 +68,7 @@ body{
 .left{
 	float: left;
 }
-a{
+.navigator_text a{
 	color: #9e5130;
 	margin-right: 26px;
 }
